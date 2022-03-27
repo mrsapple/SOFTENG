@@ -128,8 +128,16 @@
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     background: #b9e0eb;
-    padding: 10px;
+    padding: 8px;
     }
 .fotos{
     padding: 6px;
+}
+.music, .music2{
+  margin: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    background: #b9e0eb;
+    padding: 8px;
+
 }
