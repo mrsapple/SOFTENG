@@ -146,3 +146,7 @@ img{
 .caixa1 a:hover{
   color: white;
 }
+audio{
+  width: 200px;
+  background-color: black;
+}
