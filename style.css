@@ -24,7 +24,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    font-family: 'Roboto Serif', serif;
+    font-family: Arial, Helvetica, sans-serif;
     background: #968da1;
     height: 9vh;
   }
@@ -121,7 +121,7 @@
 }
 .container, .caixa1{
     margin: 10px;
-    font-family: 'Roboto Serif', serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     background: #968da1;
     padding: 8px;
@@ -131,12 +131,12 @@
     padding: 6px;
 }
 .music, .music2, .music3, .music4{
-  margin: 31px;
-  font-family: 'Roboto Serif', serif;
+    margin: 31px;
     font-size: 18px;
     background: #968da1;
     padding: 8px;
     border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 img{
@@ -148,4 +148,7 @@ img{
 }
 audio{
   width: 250px;
+}
+table{
+  border-color: black;
 }
